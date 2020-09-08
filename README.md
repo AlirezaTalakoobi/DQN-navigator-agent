@@ -13,7 +13,7 @@ this project consists of 4 different files:
 
 *important: you can find project description in presentation.pptx*
 
- the agent that I have trained is version 4.1.6 in the "presentation" file that can gather about 50 points in each episode that is equal to gathering about 11.5 blue cubes in each episode which is a fantastic result.
+ the agent that I have trained is version 4.1.6 in the "presentation" file that can gather about 50 points in each episode which is equal to gathering about 11.5 blue cubes in each episode and you can see that it is a fantastic result.
  
  ![alt text](https://github.com/AlirezaTalakoobi/DQN-navigator-agent/blob/master/learning%20process.PNG?raw=true)
  ![alt text](https://github.com/AlirezaTalakoobi/DQN-navigator-agent/blob/master/map.PNG?raw=true)
