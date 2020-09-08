@@ -8,4 +8,4 @@ this project consists of 4 different files:
 3. DQN code
 4. main code
 
-*you can find required informations in presentation.pptx*
+*important: you can find project description in presentation.pptx*
